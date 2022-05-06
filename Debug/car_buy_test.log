@@ -1,0 +1,9 @@
+﻿  CarRentWindowForm.cpp
+  MainForm.cpp
+  Program.cpp
+C:\Users\mruna\source\repos\car_buy_test\LoginForm.h(214,21): warning C4101: 'e': unreferenced local variable
+C:\Users\mruna\source\repos\car_buy_test\RegisterForm.h(345,21): warning C4101: 'ex': unreferenced local variable
+C:\Users\mruna\source\repos\car_buy_test\Program.cpp(10,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  CarRentWindowForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  car_buy_test.vcxproj -> C:\Users\mruna\source\repos\car_buy_test\Debug\car_buy_test.exe
